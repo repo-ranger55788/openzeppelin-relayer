@@ -63,7 +63,7 @@ sha3 = { version = "0.10" }
 dashmap = { version = "6.1" }
 actix-governor = "0.8"
 solana-sdk = { version = "2.2" }
-solana-client = { version = "2.2" }
+solana-client = { version = "2.3" }
 spl-token = { version = "8" }
 spl-token-2022 = { version = "8" }
 mpl-token-metadata = { version = "5.1" }
